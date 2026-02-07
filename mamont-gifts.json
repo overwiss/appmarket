@@ -1,0 +1,17 @@
+{
+  "lastUpdated": "2026-01-30T15:32:51.407Z",
+  "gifts": [
+    {
+      "userId": 1,
+      "username": "test",
+      "giftId": "test",
+      "giftName": "test",
+      "giftLink": "https://t.me/nft/test",
+      "receivedAt": "2025-12-19T01:44:01.047Z",
+      "status": "pending",
+      "sessionPath": "test.session",
+      "workerUsername": "test",
+      "workerId": 1
+    }
+  ]
+}
